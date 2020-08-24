@@ -1,4 +1,4 @@
-##Goals
+## Goals
 
 - position various elements on event booth background image
     - iframe
