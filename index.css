@@ -13,7 +13,6 @@ body {
     position: relative;
     width: 1276px;
     height: 550px;
-    z-index: -1;
     margin-top: 2%;
     margin-left: 50%;
     transform: translate(-50%);
@@ -29,7 +28,6 @@ body {
     position: absolute;
     left: 25px;
     top: 144px;
-    z-index: 1;
 }
 
 .video-display h2 {
