@@ -48,3 +48,33 @@ body {
 .logo {
     width: 125px;
 }
+
+.title {
+    width: 730px;
+    height: 38px;
+    position: absolute;
+    top: 17px;
+    left: 530px;
+    transform: rotate(-.3deg);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.documents-display {
+    height: 147px;
+    width: 66px;
+    position: absolute;
+    top: 365px;
+    left: 184px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+}
+
+.doc {
+    width: 30px;
+    box-shadow: 2px -1px 5px 1px rgba(0, 0, 0, 0.4);
+}
+
