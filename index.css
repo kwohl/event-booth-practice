@@ -33,3 +33,18 @@ body {
 .video-display h2 {
     text-align: center;
 }
+
+.logo-display {
+    position: absolute;
+    width: 130px;
+    height: 130px;
+    left: 355px;
+    top: 22px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo {
+    width: 125px;
+}
